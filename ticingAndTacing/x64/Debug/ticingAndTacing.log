@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\sophi\source\repos\ticingAndTacing\Game.cpp(8,19): warning C4091: 'extern ': ignored on left of 'move' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+C:\Users\sophi\source\repos\ticingAndTacing\MinMax.cpp(9,19): warning C4091: 'extern ': ignored on left of 'move' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+C:\Users\sophi\source\repos\ticingAndTacing\main.cpp(11,19): warning C4091: 'extern ': ignored on left of 'move' when no variable is declared
+C:\Users\sophi\source\repos\ticingAndTacing\main.cpp(62,1): warning C4715: 'takePlayerInput': not all control paths return a value
+  ticingAndTacing.vcxproj -> C:\Users\sophi\source\repos\ticingAndTacing\x64\Debug\ticingAndTacing.exe
